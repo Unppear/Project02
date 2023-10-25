@@ -276,7 +276,7 @@ div.address > p:nth-of-type(2) {
     div.bg_cont {
         left: 50%;
         transform: translateX(-50%);
-        width: 100%;
+        width: 90%;
         max-width: 350px;
         margin-bottom: 30px;
     }
